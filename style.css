@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+}
+
+.head {
+    display: flex;
+    padding-top: 15px;
+    background-color: #1f2937;
+    color: #f9faf8;
+}
+
+.logo {
+    padding-left: 40px;
+    font-size: 24px;
+}
+
+.header1 {
+    padding-left: 500px; 
+    font-size: 24px;
+    color: #e5e7eb;
+}
+
+.header2 {
+    padding-left: 70px; 
+    font-size: 24px;
+    color: #e5e7eb;
+}
+
+.header3 {
+    padding-left: 70px; 
+    font-size: 24px;
+    color: #e5e7eb;
+}
+
+.second {
+background-color: #1f2937;
+flex-direction: column;
+padding-top: 80px;
+color: #f9faf8;
+}
+
+.lol {
+    display: flex;
+    flex-direction: column;
+}
+.image {
+    background-color:  gray;
+    width: 500px;
+    height: 200px;
+    text-align: center;
+    vertical-align: 50px
+}
+
+
+
+.awesome {
+    font-size: 48px;
+    font-weight: bolder;
+    padding-left: 200px;
+}
+
+.website {
+    font-size: 18px;
+    width: 400px;
+    padding-left: 200px;
+
+}
+
+.sig {
+    display: flex;
+    justify-content: space-around;
+    padding-right: 200px;
+    padding-top: 10px;
+    
+}
+
+.up {
+  font-size: 18px;
+    width: 100px;
+    height: 30px;
+    background-color: #3882f6;
+    border-radius: 7px;   
+}
+
+.lul {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+
+
+
+
+
