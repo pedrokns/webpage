@@ -46,12 +46,10 @@ color: #f9faf8;
 .image {
     background-color:  gray;
     width: 500px;
-    height: 200px;
+    height: 150px;
     text-align: center;
-    vertical-align: 50px
+    
 }
-
-
 
 .awesome {
     font-size: 48px;
@@ -63,7 +61,6 @@ color: #f9faf8;
     font-size: 18px;
     width: 400px;
     padding-left: 200px;
-
 }
 
 .sig {
@@ -85,6 +82,41 @@ color: #f9faf8;
 .lul {
     display: flex;
     justify-content: space-around;
+}
+
+.random {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 20px;
+}
+
+
+.square { display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+
+.thing {
+    width: 200px;
+    height: 200px;
+    border-radius: 8px;
+    border-color: #3882f6;
+    border-style: solid;
+}
+
+.content {
+    display: flex;
+    justify-content: space-around;
+}
+
+.one {
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    padding-top: 5px;
+    
 }
 
 
